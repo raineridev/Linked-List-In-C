@@ -1,2 +1,2 @@
-# Linked-List-In-C
+# Linked List In C
 All linked lists, or almost all of them...
