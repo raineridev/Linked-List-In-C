@@ -17,5 +17,7 @@ typedef	struct	l_list
 n_list  *lstnew(void *content);
 // Void Return
 void lstadd_back();
+// Int Return
+int lstsize(n_list *lst);
 
 #endif
