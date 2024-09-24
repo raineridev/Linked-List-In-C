@@ -6,7 +6,7 @@ void lstadd_back(n_list **head, n_list *node)
     
     if(!*head)
     {
-        head = node;
+        *head = node;
         return ;
     }
     if(!node)
